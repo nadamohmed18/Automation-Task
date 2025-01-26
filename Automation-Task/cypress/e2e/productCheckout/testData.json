@@ -1,0 +1,14 @@
+{
+    "user": {
+      "email": "Automationtest@gmail.com",
+      "password": "Automationtest"
+    },
+    
+    "billing": {
+      "cardNumber": "4111111111111111",
+      "nameOfCard" : "test",
+      "cvv":"123",
+      "monthOfExpiration" :"01",
+      "yearOfExpiration" : "39"
+    }
+  }
