@@ -4,36 +4,11 @@ This repository contains an automated test suite built with [Cypress](https://ww
 
 ## Table of Contents
 
-1. [Project Structure](#project-structure)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Test Data](#test-data)
-6. [File Overview](#file-overview)
-
-## Project Structure
-
-AUTOMATION-TASK/
-└── cypress/
-├── e2e/
-│ └── productCheckout/
-│ ├── productCheckout.cy.js
-│ └── testData.json
-├── fixtures/
-│ └── example.json
-├── Pages/
-│ ├── addproductToCart.js
-│ ├── CartPage.js
-│ ├── CheckoutPage.js
-│ ├── LoginPage.js
-│ └── PaymentPage.js
-├── support/
-│ ├── commands.js
-│ └── e2e.js
-├── cypress.config.js
-├── package-lock.json
-├── package.json
-└── README.md
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Test Data](#test-data)
+5. [File Overview](#file-overview)
 
 ## Prerequisites
 
